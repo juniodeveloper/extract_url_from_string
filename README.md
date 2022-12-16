@@ -5,7 +5,7 @@
 ```bash 
  npm install extract_url_from_string
  # or
- yarn dev 
+ yarn add extract_url_from_string
  ```
 
 ```javascript
